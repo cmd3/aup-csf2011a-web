@@ -1,18 +1,4 @@
 
-<head>
-	<title>Class Schedule</title>
-	<link rel="stylesheet" type="text/css" href="theme.css"/>
-	
-</head>
-
-<body class="hello">
-	<div class="wrapper">	
-
-		<nav>
-			<a href="http://css2/~cmd3/" title="Home">Home</a>
-			<a href="http://css2/~cmd3/hello.html" title="Click to view my class schedule">Class Schedule</a> 
-			<a href="http://css2/~cmd3/contact.html" title="My contacts">Contact<a/>
-		</nav>
 
 		<h1>Class Schedule</h1>
 	<table>
@@ -93,7 +79,7 @@
 		</tr>
 
 		<tr>
-			<td>Major's Forum</td>
+			<td>Majors Forum</td>
 			<td> </td>
 			<td> </td>
 			<td> </td>
@@ -105,6 +91,5 @@
 	</table>
 
 	<p class="nstp">NSTP is every Sunday(7:00am-5:00pm)</p>
-	</div>
 
-</body>
+
