@@ -1,31 +1,35 @@
 .index{
-	background: #2B6AEC;
+	background: #282828;
+	background-image:('') top left no-repeat;
 }
 
 .hello{
-	background: #2B6AEC;
+	background: #282828;
 }
 
 .wrapper{
-	background: lightblue;
+	background: #303030;
 	border: solid 2px black;
 	border-radius: 15px;
 	padding: 0;
-	margin: 25px auto 0 auto;
+	margin: 20px auto 0 auto;
 	text-align: center;
 	line-height: 23px;
 	font-size: 18px;
-	height: 600px;
+	height: 500px;
 	width: 960px;
+	color: white;
 }
 
 nav{
 	color: white;
 	background: black;
 	border: 2px solid gray;
-	margin: 10px;
+	margin: 50px auto 0 auto;
 	padding: 10px;
 	border-radius: 15px;
+	width: 950px;
+	text-align: center;
 }
 
 nav a{
@@ -41,8 +45,8 @@ nav a:hover{
 
 article p.para{
 	float: left;
-	background: white;
-	color: black;
+	background: #383838;
+	color: white;
 	font-size: 20px;
 	width: 300px;
 	height: 350px;
@@ -55,7 +59,7 @@ article p.para{
 
 article img{
 	float: right;
-	background: white;
+	background: #383838;
 	line-height: 15px;
 	width: 460px;
 	height: 350px;
@@ -63,7 +67,7 @@ article img{
 	margin-right: 50px;
 	border-radius: 15px;
 	padding: 10px;
-
+	color: white;
 }
 
 table{
@@ -78,7 +82,7 @@ th, td{
 	font-size: 19px;
 	border: 1px solid black;
 	border-radius: 2px;
-	background: white;
+	background: #383838;
 }
 
 .nstp{
@@ -87,7 +91,7 @@ th, td{
 }
 
 .contact{
-	background: lightblue;
+	background: #303030;
 	border: solid 2px black;
 	border-radius: 15px;
 	padding: 0;
@@ -100,7 +104,7 @@ th, td{
 }
 
 .paracon{
-	background: white;
+	background: #383838;
 	border-radius: 15px;
 	padding: 0;
 	margin: 100px auto 0 auto;
