@@ -1,0 +1,149 @@
+html{
+	width: 1000px;
+	margin: 30px auto;
+}
+
+
+li, nav, nav a, a{
+	text-decoration: none;
+	list-style: none;
+}
+
+nav a, a, h1, h2{
+	color: 0099FF;
+}
+
+.topnav{
+	float: right;
+	padding: 20px 0px;
+	font-size: 15px;
+	margin: -30px 0px;
+}
+
+.topnav a{
+	padding: 0px 10px;
+}
+
+.img1{
+	width: 990px;
+	height: 320px;
+	margin: 30px 0px 10px 0px;
+}
+
+.categories ul{
+	float: left;
+	font-size: 14px;
+	padding: 5px 25px 15px 25px;
+}
+
+.post1, .post2{
+	border: solid 1px white;
+	width: 575px;
+	height: 450px;
+	float: left;
+}
+.post1{
+	background-color: lavender;
+	margin: 20px 0px;
+}
+
+.post2{
+	margin: -125px 0px;
+}
+
+.socialwidget, .recpost, .navcat, .reccom, .archive{
+	float: left; 
+	font-size: 15px;
+}
+
+.search{
+	float:right;
+	margin: 30px 0px 30px 0px;
+}
+
+.socialwidget li, .recpost li, .navcat li, .reccom li, .archive li, .categories li{
+	margin: 6px 0px;
+}
+
+.navcat{
+	margin: -100px 0px;
+	font-size: 15px;
+}
+
+.reccom{
+	margin: 0px 25px;
+	padding: 5px 0px 10px 20px;
+}
+
+.recpost{
+	padding: 5px 0px 10px 20px;
+}
+
+h1{
+	font-family: arial;
+}
+
+h3{
+	font-size: 20px;
+}
+
+h4{
+	margin: -45px 0px 0px 85px;
+	font-style: italic;
+}
+
+.img2{
+	height: 110px;
+	width: 110px;
+	margin: 10px 0px;
+}
+
+.left{
+	float: left;
+	margin: 0px 10px;
+}
+
+.right{
+	margin: -90px 130px;
+	float:left;
+	width: 400px;
+}
+
+#right, #right p{
+	margin: -10px 0px 0px 0px;
+}
+
+#right .italic{
+	font-size: 12px;
+}
+
+.right p{
+	line-height: 150%;
+	padding: 30px 0px 0px 0px;
+	font-size: 14px;
+	font-family: sans serif;
+}
+
+.italic , .left p .post2 p{
+	font-style: italic;
+}
+
+.italic a, .left a{
+	font-style: normal;
+}
+
+
+
+.archive{
+	margin: 50px 0px;
+}
+
+
+h4, .right p, h3, .left p{
+	color: #707070;
+}
+
+.topnav a:hover{
+	font-size:120%;
+	color: 00FFFF;
+}
