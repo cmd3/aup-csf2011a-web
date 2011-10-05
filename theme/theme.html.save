@@ -5,6 +5,12 @@
 	</head>
 
 	<body>
+	
+	<form action="post.php" method="post">
+		<input type="text" name="firstname">
+		<br />
+		<input type="submit" value="submit" name="submit">
+	</form>
 
 	<div>
 		<h1>Yoko</h1>
@@ -13,7 +19,7 @@
 		<nav class="topnav">
 			<a href="">PAGE1</a>
 			<a href="">PAGE2</a>
-			<a href="">FULLWITDHPAGE</a>
+			<a href="">FULLWIDTHPAGE</a>
 			<a href="">CONTACT</a>
 		</nav>
 		
@@ -87,12 +93,8 @@
 			</nav>
 		</ul>
 	
-		<p class="search">
-		<form action="notebook.php" method="post">
-			<input type="text" name="notebooks">
-			<input type="submit" value="submit" name="submit">
-		</form>
-		</p>
+		<p class="search"><input type="text" name="Search"/><button type="button">Search</button></p>
+		<hr align="right" width="240px"/>
 		
 		<ul class="recpost">
 			<nav>
@@ -165,8 +167,9 @@
 				<li><a href>october(1)</a></li>
 			</nav>
 		</ul>
-	
+		
 
+		
 	</body>
 </html>
 
